@@ -6,6 +6,6 @@ int main() {
     string namn;
     cout << "Vad heter du? ";
     getline(cin, namn);
-    cout << "Hej " << namn << "!" << endl;
+    cout << "Hej då " << namn << "!" << endl;
     return 0;
 }
